@@ -7,24 +7,18 @@ excerpt_separator: ""
 google_analytics_id: UA-77759092-1
 #google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 
-repository: https://github.com/bioboot/newlabsite
-help_url: https://github.com/bioboot/newlabsite
-
-timezone: America/Detroit
-
 collections:
   docs:
     output: true
 
-name: GrantLab • Computational Biophysics & Bioinformatics
-description: Computational Biophysics & Bioinformatics
-url: "http://bioboot.github.io/newlabsite/"
-baseurl: "/newlabsite" # the subpath of your site, e.g. /blog/
+title: Symmetry Lab
+name: Symmetry Lab • Biophysics of developing embryos
+description: Biophysics of developing embryos
+url: "http://SymmetryLab.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 twitter:
-  username: bioboot
-
-logo: img/bio3d_logo_circle.png
+  username: Sundar_Ram_07
 
 gems:
   - jekyll-feed
