@@ -10,7 +10,7 @@ layout: page
 
 <br/>
 
-<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 10px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Swetha Nagarajan</b> (PhD student)
 </font>
@@ -28,7 +28,7 @@ layout: page
 <br/>
 <br/>
 
-<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 10px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Neha Vats</b> (PhD student)
 </font>
@@ -48,7 +48,7 @@ layout: page
 <br/>
 <br/>
 
-<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 10px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Subhanjan Venugopal</b> (I-PhD student)
 </font>
