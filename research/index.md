@@ -13,7 +13,7 @@ Early zebrafish embryos have a single body axis called the animal-vegetal (AV) a
 <img src="{{ "/Images/Early_embryo.png" | prepend: site.baseurl }}" width="400" height="220" alt="UM" style="float:left;margin-left: 40px;margin-right: 25px;margin-top: 17px">
 
 <video width="200" height="300" controls>
-  <source src="https://github.com/sundar07/sundar07.github.io/tree/gh-pages/Movies/CE.avi" type="video/avi">
+  <source src="/Movies/CE.avi" type="video/avi">
 </video>
 
 ### [Emergence of symmetry in tissue shape and size during somite formation](#somite) <br/>
