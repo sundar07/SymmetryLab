@@ -4,7 +4,9 @@ layout: page
 <section class="intro">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
-      <p class="first">Biophysics of developing embryos </p>
+      <center>
+        <p class="first">Biophysics of developing embryos </p>
+      </center>
     </div>
   </div>
 </section>
