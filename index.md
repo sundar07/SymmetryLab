@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <section class="intro">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
