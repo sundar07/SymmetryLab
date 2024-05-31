@@ -18,8 +18,4 @@ overview: true
         <a href="{{ "/research/" | prepend: site.baseurl }}">Read more...
      
         <img src="{{ "/Images/Symmetry.png" | prepend: site.baseurl }}" width="400" height="400" alt="UM" style="display:block;margin:0 auto; margin-bottom: 10px; margin-top:           30px">
-        </p>
-
-        </div>
-    </div>
-</section>
+     
