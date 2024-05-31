@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+overview: true
 ---
 
 <strong>**Biophysics of developing embryos**</strong>
