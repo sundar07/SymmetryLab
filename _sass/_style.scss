@@ -209,7 +209,7 @@ footer {
 
 .intro {
 
-  .unit { padding: 10px 0 40px; }
+  .unit { padding: 10px 0 5px; }
 
   p {
     font-size: 1.75em;
@@ -219,7 +219,7 @@ footer {
 }
 
 @media (min-width: 569px) {
-  .intro p { font-size: 3.2em; }
+  .intro p { font-size: 2em; }
 }
 
 /* Quickstart */
