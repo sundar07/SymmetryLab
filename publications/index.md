@@ -19,7 +19,7 @@ Curr. Top. Dev. Biol., 159, 310-342 (2024)
 
 **PhD and postdoc**
 
-\$ Joint corresponding author
+&#8224; Joint corresponding author
 
 - <a href="https://www.nature.com/articles/s41586-022-04646-9" target="_blank">Left-right symmetry of zebrafish embryos requires somite surface tension</a><br />
 **Naganathan S.R.**\$, Popovic M., Oates A.C.\$\
