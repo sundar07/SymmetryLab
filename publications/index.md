@@ -22,7 +22,7 @@ Curr. Top. Dev. Biol., 159, 310-342 (2024)
 &#8224; Joint corresponding author
 
 - <a href="https://www.nature.com/articles/s41586-022-04646-9" target="_blank">Left-right symmetry of zebrafish embryos requires somite surface tension</a><br />
-**Naganathan S.R.**\$, Popovic M., Oates A.C.\$\
+**Naganathan S.R.**&#8224;, Popovic M., Oates A.C.&#8224;\
 Nature, 605, 516-521 (2022)
 
 - <a href="https://www.nature.com/articles/s41467-022-29311-7" target="_blank">Hand2 delineates mesothelium progenitors and is reactivated in mesothelioma</a><br />
@@ -34,7 +34,7 @@ Nat. Comms., 13:1677 (2022)
 Semin. Cell Dev. Biol., 107:170-178 (2020)1
 
 - <a href="https://doi.org/10.7554/eLife.37677" target="_blank">Morphogenetic degeneracies in the actomyosin cortex</a><br />
-**Naganathan S.R.**\$, Fürthauer S., Fievet B.T., Rodriguez J., Jülicher F., Ahringer J., Cannistraci C.V., Grill S.W.\$\
+**Naganathan S.R.**&#8224;, Fürthauer S., Fievet B.T., Rodriguez J., Jülicher F., Ahringer J., Cannistraci C.V., Grill S.W.&#8224;\
 eLife, 7:e37677 (2018)
 
 - <a href="https://www.semanticscholar.org/paper/Mechanochemical-Pattern-Formation-in-the-Actomyosin-Nishikawa-Naganathan/297cf8167de8ef168aff8a074a7c06375cb580b4" target="_blank">Mechanochemical pattern formation in the actomyosin cortex</a><br />
