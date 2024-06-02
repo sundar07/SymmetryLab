@@ -6,6 +6,7 @@ layout: page
 <div class="grid">
     <div class="unit whole center-on-mobiles">
         <img src="{{ "/Images/Sundar.png" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right:         15px;margin-top: 10px">
+        <br/>
         <font color="#fc0">
                 <b>Sundar Ram Naganathan</b> (Reader and principal investigator)
         </font>
