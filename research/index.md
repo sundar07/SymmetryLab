@@ -11,13 +11,15 @@ We investigate how symmetry emerges in three different stages of embryonic devel
 <p align="justify">
 Early zebrafish embryos have a single body axis called the animal-vegetal (AV) axis. A few hours later (around 5 hours post fertilization (hpf)), a dorsal organizer (shield, in image below) forms establishing the dorsal-ventral (DV) axis of the embryo. Given two body axes (AV and DV), the third body axis (left-right) can be automatically defined as the three axes are perpendicular to each other. A couple of hours after establishment of such a 3D coordinate system, cells from the left and right sides of the embryo begin flowing towards the dorsal midline (see right image and video below). As the cells flow they intercalate with each other, thus shrinking the body axis in the left-right direction, while simultaneously elongating the body axis in the AV direction. These flows called convergence-extension flows are prevalent throughout development and has been extensively studied across systems. Here, we are trying to investigate whether these bilateral flows are symmetric and how such large-scale symmetry emerges in a dynamic process.
 </p>
-<center>
-<img src="{{ "/Images/Early_embryo.png" | prepend: site.baseurl }}" width="400" height="220" alt="UM" style="float:left;margin-left: 40px;margin-right: 25px;margin-top: 17px">
-
-<video width="200" height="300" controls>
-  <source src="/Movies/CE.mp4" type="video/mp4">
-</video>
-</center>
+<div class="unit whole center-on-mobiles">
+  <center>
+  <img src="{{ "/Images/Early_embryo.png" | prepend: site.baseurl }}" width="400" height="220" alt="UM" style="float:left;margin-left: 40px;margin-right: 25px;margin-top: 17px">
+  
+  <video width="200" height="300" controls>
+    <source src="/Movies/CE.mp4" type="video/mp4">
+  </video>
+  </center>
+</div>
 
 ### [Emergence of symmetry in tissue shape and size during somite formation](#somite) <br/>
 <p align="justify">
