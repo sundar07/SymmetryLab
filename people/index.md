@@ -6,7 +6,7 @@ layout: page
 <font color="#fc0">
         <b>Sundar Ram Naganathan</b> (Reader and principal investigator)
 </font>
-<p align="justify">Sundar did his undergraduate in Industrial Biotechnology at Anna University Chennai and following a brief stint as a JRF in NCBS, he went on to do a PhD under Prof. Stephan Grill (MPI-CBG Dresden), where he studied left-right symmetry breaking in C. elegans embryos. He then went for a postdoc with Prof. Andrew Oates (UCL, London and EPFL, Lausanne), where he investigated left-right symmetry in somite formation in a developing zebrafish embryo. Outside the lab, he loves playing ultimate frisbee, cricket, chess and watching crime thrillers and sports.</p>
+Sundar did his undergraduate in Industrial Biotechnology at Anna University Chennai and following a brief stint as a JRF in NCBS, he went on to do a PhD under Prof. Stephan Grill (MPI-CBG Dresden), where he studied left-right symmetry breaking in C. elegans embryos. He then went for a postdoc with Prof. Andrew Oates (UCL, London and EPFL, Lausanne), where he investigated left-right symmetry in somite formation in a developing zebrafish embryo. Outside the lab, he loves playing ultimate frisbee, cricket, chess and watching crime thrillers and sports.
 
 <br/>
 
