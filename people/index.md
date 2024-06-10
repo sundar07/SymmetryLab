@@ -72,6 +72,6 @@ layout: page
 
 - Jeetnet Baar (Junior Research Fellow, July 2023 - Feb 2024)
 
-- Tamannah Balachandran (Summer intern, 2023)
+- Tamanna Balachandran (Summer intern, 2023)
 
 - Amrita Kumari (Summer intern, 2023)
