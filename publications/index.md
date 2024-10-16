@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- <a href="https://app.jove.com/t/66735/light-sheet-microscopy-imaging-mounting-strategies-for-early" target="_blank">Light Sheet Microscopy Imaging and Mounting Strategies for Early Zebrafish Embryos</a><br />
+Nagarajan S.\*, Bardhan S.\*, **Naganathan S.R.**\
+J. Vis. Exp. (209), e66735 (2024)
+
 - <a href="https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20230173/234414" target="_blank">An emerging role for tissue plasticity in developmental precision</a><br />
 **Naganathan S.R.**\
 Biochem. Soc. Trans., BST20230173 (2024)
